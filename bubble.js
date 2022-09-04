@@ -1,23 +1,27 @@
 function myFunction1() {
-  document.getElementById("bubble_1").style.backgroundColor = "orange";
+  document.getElementById("bubble_1").style.backgroundColor = "#EBC7E8";
+  document.getElementById("bubble_1").style.transition = "7.5s";
   document.getElementById("arrow_1").style.color = "green";
   document.getElementById("arrow_1").style.transition = "1s";
   document.getElementById("arrow_1").style.marginLeft = "-7.5%";
 }
 function myFunction2() {
-  document.getElementById("bubble_2").style.backgroundColor = "black";
+  document.getElementById("bubble_2").style.backgroundColor = "#16213E";
+  document.getElementById("bubble_2").style.transition = "7.5s";
   document.getElementById("arrow_2").style.color = "green";
   document.getElementById("arrow_2").style.transition = "1s";
   document.getElementById("arrow_2").style.marginLeft = "-7.5%";
 }
 function myFunction3() {
-  document.getElementById("bubble_3").style.backgroundColor = "skyblue";
+  document.getElementById("bubble_3").style.backgroundColor = "#A5F1E9";
+  document.getElementById("bubble_3").style.transition = "7.5s";
   document.getElementById("arrow_3").style.color = "green";
   document.getElementById("arrow_3").style.transition = "1s";
   document.getElementById("arrow_3").style.marginLeft = "-7.5%";
 }
 function myFunction4() { 
   document.getElementById("arrow_4").style.color = "green";
+  document.getElementById("bubble_4").style.transition = "7.5s";
   document.getElementById("arrow_4").style.transition = "1s";
   document.getElementById("arrow_4").style.marginLeft = "-7.5%";
   document.getElementById("bubble_4").style.backgroundColor = "purple";
