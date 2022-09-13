@@ -38,6 +38,10 @@ function myFunction5() {
   document.getElementById("arrow_2").style.marginLeft = "80%";
   document.getElementById("arrow_3").style.marginLeft = "80%";
   document.getElementById("arrow_4").style.marginLeft = "80%";
+  document.getElementById("arrow_1").style.color = "red";
+  document.getElementById("arrow_2").style.color = "red";
+  document.getElementById("arrow_3").style.color = "red";
+  document.getElementById("arrow_4").style.color = "red";
 
 }
 
